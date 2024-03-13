@@ -1,0 +1,10 @@
+Package: com.brunonfl.s8edge
+Name: S8Edge
+Depends: mobilesubstrate, firmware (>= 8.0)
+Architecture: iphoneos-arm
+Description: Brings Galaxy S8 Infinity to iOS
+Maintainer: Bruno Andrade <brubiluco@globo.com>
+Author: Bruno Andrade <brubiluco@globo.com>
+Section: Tweaks
+Version: 1.1-2+debug
+Installed-Size: 1052
